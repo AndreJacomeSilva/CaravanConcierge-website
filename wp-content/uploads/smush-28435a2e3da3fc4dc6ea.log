@@ -1,0 +1,92 @@
+[2019-11-12 23:26:46 : INFO] - Re_Smush_It_Task server status: Online 
+[2019-11-12 23:26:47 : INFO] - 
+ 
+[2019-11-12 23:26:47 : INFO] - Header for logs at time:  Tue, 12 Nov 2019 23:26:47 +0000 on https://www.caravanconcierge.pt 
+[2019-11-12 23:26:47 : INFO] - WP: 5.2.4 
+[2019-11-12 23:26:47 : INFO] - PHP: 7.1.26 (cgi-fcgi, Windows NT WINXL 6.3 build 9600 (Windows Server 2012 R2 Standard Edition) AMD64) 
+[2019-11-12 23:26:47 : INFO] - MySQL: 5.6.36 
+[2019-11-12 23:26:47 : INFO] - WPLANG: en_US 
+[2019-11-12 23:26:47 : INFO] - Server: Microsoft-IIS/8.5 
+[2019-11-12 23:26:47 : INFO] - Outbound connections: N 
+[2019-11-12 23:26:47 : INFO] - safe_mode: 0 
+[2019-11-12 23:26:47 : INFO] - max_execution_time: 600 
+[2019-11-12 23:26:47 : INFO] - memory_limit: 256M (used: 10.3M | 4M) 
+[2019-11-12 23:26:47 : INFO] - multisite: N 
+[2019-11-12 23:26:47 : INFO] - openssl: OpenSSL 1.0.2q  20 Nov 2018 
+[2019-11-12 23:26:50 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-11-12 23:26:50 : INFO] - Set semaphore last lock (smush) time to 2019-11-12 23:26:50 
+[2019-11-12 23:26:50 : INFO] - Semaphore lock (smush) complete 
+[2019-11-12 23:26:50 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2019-11-12 23:26:50 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:50 : INFO] - 100 
+[2019-11-12 23:26:52 : INFO] - Backing up the original image - D:/domains/caravanconcierge.pt/httpdocs/wp-content/uploads/2019/05/Sonia-Background-Image-updraft-pre-smush-original.jpg 
+[2019-11-12 23:26:52 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:52 : INFO] - 100 
+[2019-11-12 23:26:53 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:53 : INFO] - 100 
+[2019-11-12 23:26:53 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:53 : INFO] - 100 
+[2019-11-12 23:26:54 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:54 : INFO] - 100 
+[2019-11-12 23:26:55 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:55 : INFO] - 100 
+[2019-11-12 23:26:55 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:55 : INFO] - 100 
+[2019-11-12 23:26:56 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:56 : INFO] - 100 
+[2019-11-12 23:26:56 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:56 : INFO] - 100 
+[2019-11-12 23:26:57 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:57 : INFO] - 100 
+[2019-11-12 23:26:58 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:58 : INFO] - 100 
+[2019-11-12 23:26:58 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:58 : INFO] - 100 
+[2019-11-12 23:26:59 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:26:59 : INFO] - 100 
+[2019-11-12 23:27:01 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:27:01 : INFO] - 100 
+[2019-11-12 23:27:01 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:27:01 : INFO] - 100 
+[2019-11-12 23:27:02 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:27:02 : INFO] - 100 
+[2019-11-12 23:27:03 : INFO] - Re_Smush_It_Task - Attachment ID : 890, Started on : November 12, 2019 11:26:47 
+[2019-11-12 23:27:03 : INFO] - 100 
+[2019-11-12 23:27:05 : INFO] - Successfully optimized the image - D:\domains\caravanconcierge.pt\httpdocs/wp-content/uploads/2019/05/Sonia-Background-Image.jpg.The file was compressed from 328.95 KB to 322.47 KB saving 1.97 percent using WP-Optimize 
+[2019-11-12 23:27:05 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2019-11-12 23:27:05 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2019-11-12 23:27:06 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:06 : INFO] - 100 
+[2019-11-12 23:27:09 : INFO] - Backing up the original image - D:/domains/caravanconcierge.pt/httpdocs/wp-content/uploads/2019/04/Marcin--updraft-pre-smush-original.png 
+[2019-11-12 23:27:09 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:09 : INFO] - 100 
+[2019-11-12 23:27:10 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:10 : INFO] - 100 
+[2019-11-12 23:27:12 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:12 : INFO] - 100 
+[2019-11-12 23:27:12 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:12 : INFO] - 100 
+[2019-11-12 23:27:13 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:13 : INFO] - 100 
+[2019-11-12 23:27:16 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:16 : INFO] - 100 
+[2019-11-12 23:27:18 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:18 : INFO] - 100 
+[2019-11-12 23:27:20 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:20 : INFO] - 100 
+[2019-11-12 23:27:23 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:23 : INFO] - 100 
+[2019-11-12 23:27:26 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:26 : INFO] - 100 
+[2019-11-12 23:27:29 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:29 : INFO] - 100 
+[2019-11-12 23:27:35 : INFO] - Re_Smush_It_Task - Attachment ID : 856, Started on : November 12, 2019 11:26:48 
+[2019-11-12 23:27:35 : INFO] - 100 
+[2019-11-12 23:27:40 : INFO] - Successfully optimized the image - D:\domains\caravanconcierge.pt\httpdocs/wp-content/uploads/2019/04/Marcin-.png.The file was compressed from 698.70 KB to 174.49 KB saving 75.03 percent using WP-Optimize 
+[2019-11-12 23:27:40 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2019-11-12 23:27:40 : INFO] - Set semaphore last lock (smush) time to 2019-11-12 23:27:40 
+[2019-11-12 23:27:40 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-12 23:27:40 : INFO] - Semaphore (smush) unlocked 
+[2019-11-12 23:27:40 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2019-11-12 23:27:40 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2019-11-12 23:27:40 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 

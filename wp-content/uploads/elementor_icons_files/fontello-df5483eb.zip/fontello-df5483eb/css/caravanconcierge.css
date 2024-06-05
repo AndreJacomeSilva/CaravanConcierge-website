@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'caravanconcierge';
+  src: url('../font/caravanconcierge.eot?94309039');
+  src: url('../font/caravanconcierge.eot?94309039#iefix') format('embedded-opentype'),
+       url('../font/caravanconcierge.woff2?94309039') format('woff2'),
+       url('../font/caravanconcierge.woff?94309039') format('woff'),
+       url('../font/caravanconcierge.ttf?94309039') format('truetype'),
+       url('../font/caravanconcierge.svg?94309039#caravanconcierge') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'caravanconcierge';
+    src: url('../font/caravanconcierge.svg?94309039#caravanconcierge') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "caravanconcierge";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-water-heater:before { content: '\e800'; } /* '' */
+.icon-seat-belt:before { content: '\e801'; } /* '' */
+.icon-stove:before { content: '\e802'; } /* '' */
+.icon-tv:before { content: '\e803'; } /* '' */
+.icon-speaker:before { content: '\e804'; } /* '' */
+.icon-volume:before { content: '\e805'; } /* '' */
+.icon-playing-cards:before { content: '\e806'; } /* '' */
+.icon-refrigerator-with-freezer:before { content: '\e807'; } /* '' */
+.icon-kitchenware:before { content: '\e808'; } /* '' */
+.icon-microwave-oven:before { content: '\e809'; } /* '' */
+.icon-bluetooh-symbol:before { content: '\e80a'; } /* '' */
+.icon-coffe-pot-2:before { content: '\e80b'; } /* '' */
+.icon-cooking:before { content: '\e80c'; } /* '' */
+.icon-shower-1:before { content: '\e80d'; } /* '' */
+.icon-shower:before { content: '\e80e'; } /* '' */
+.icon-toilet-paper:before { content: '\e80f'; } /* '' */
+.icon-toilet-paper-1:before { content: '\e810'; } /* '' */
+.icon-bicycle:before { content: '\e811'; } /* '' */
+.icon-outdoors-table-with-chairs-couple-and-umbrella:before { content: '\e812'; } /* '' */
+.icon-barbequeue:before { content: '\e813'; } /* '' */
+.icon-surfboard:before { content: '\e814'; } /* '' */
+.icon-motorhome-3:before { content: '\e815'; } /* '' */
+.icon-motorhome-2:before { content: '\e816'; } /* '' */
+.icon-motorhome:before { content: '\e817'; } /* '' */
+.icon-ayak:before { content: '\e818'; } /* '' */
+.icon-solar-panel:before { content: '\e819'; } /* '' */
+.icon-oven:before { content: '\e81a'; } /* '' */
+.icon-coffe-pot:before { content: '\e81b'; } /* '' */
+.icon-coffee-machine:before { content: '\e81c'; } /* '' */
+.icon-coffee-machine-1:before { content: '\e81d'; } /* '' */
+.icon-baby-boy:before { content: '\e81e'; } /* '' */
+.icon-dog-pawn:before { content: '\e81f'; } /* '' */
+.icon-dog:before { content: '\e820'; } /* '' */
+.icon-lock:before { content: '\e821'; } /* '' */
+.icon-adapter:before { content: '\e822'; } /* '' */
+.icon-USB:before { content: '\e823'; } /* '' */
+.icon-refrigerator:before { content: '\e825'; } /* '' */
